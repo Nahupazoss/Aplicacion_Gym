@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodri\\source\\repos\\AplicacionGym\\AplicacionGym\\AplicacionGym.csproj",
+      "projectUniqueName": "C:\\Users\\Rodri\\Desktop\\aplicacion gym git\\Aplicacion_Gym\\AplicacionGym\\AplicacionGym\\AplicacionGym.csproj",
       "projectName": "AplicacionGym",
-      "projectPath": "C:\\Users\\Rodri\\source\\repos\\AplicacionGym\\AplicacionGym\\AplicacionGym.csproj",
+      "projectPath": "C:\\Users\\Rodri\\Desktop\\aplicacion gym git\\Aplicacion_Gym\\AplicacionGym\\AplicacionGym\\AplicacionGym.csproj",
       "packagesPath": "C:\\Users\\Rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodri\\source\\repos\\AplicacionGym\\AplicacionGym\\obj\\",
+      "outputPath": "C:\\Users\\Rodri\\Desktop\\aplicacion gym git\\Aplicacion_Gym\\AplicacionGym\\AplicacionGym\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",

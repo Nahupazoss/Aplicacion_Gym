@@ -17,3 +17,22 @@ C:\Users\Rodri\source\repos\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows
 C:\Users\Rodri\source\repos\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\ref\AplicacionGym.dll
 C:\Users\Rodri\source\repos\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.pdb
 C:\Users\Rodri\source\repos\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.genruntimeconfig.cache
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\bin\Debug\net5.0-windows\AplicacionGym.exe
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\bin\Debug\net5.0-windows\AplicacionGym.deps.json
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\bin\Debug\net5.0-windows\AplicacionGym.runtimeconfig.json
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\bin\Debug\net5.0-windows\AplicacionGym.runtimeconfig.dev.json
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\bin\Debug\net5.0-windows\AplicacionGym.dll
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\bin\Debug\net5.0-windows\ref\AplicacionGym.dll
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\bin\Debug\net5.0-windows\AplicacionGym.pdb
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.csproj.AssemblyReference.cache
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.FormInicioSesion.resources
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.Properties.Resources.resources
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.csproj.GenerateResource.cache
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.AssemblyInfoInputs.cache
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.AssemblyInfo.cs
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.dll
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\ref\AplicacionGym.dll
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.pdb
+C:\Users\Rodri\Desktop\aplicacion gym git\Aplicacion_Gym\AplicacionGym\AplicacionGym\obj\Debug\net5.0-windows\AplicacionGym.genruntimeconfig.cache

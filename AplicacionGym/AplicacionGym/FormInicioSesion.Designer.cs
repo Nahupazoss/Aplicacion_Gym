@@ -49,9 +49,9 @@ namespace AplicacionGym
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(-84, -46);
+            this.pictureBox1.Location = new System.Drawing.Point(-9, 27);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(708, 325);
+            this.pictureBox1.Size = new System.Drawing.Size(574, 209);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -114,6 +114,7 @@ namespace AplicacionGym
             this.btn_InicioSesion.TabIndex = 5;
             this.btn_InicioSesion.Text = "Iniciar Sesion";
             this.btn_InicioSesion.UseVisualStyleBackColor = false;
+            this.btn_InicioSesion.Click += new System.EventHandler(this.btn_InicioSesion_Click);
             // 
             // pictureBox3
             // 
@@ -143,9 +144,9 @@ namespace AplicacionGym
             // 
             this.btn_exit.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_exit.Image = ((System.Drawing.Image)(resources.GetObject("btn_exit.Image")));
-            this.btn_exit.Location = new System.Drawing.Point(400, 2);
+            this.btn_exit.Location = new System.Drawing.Point(486, 12);
             this.btn_exit.Name = "btn_exit";
-            this.btn_exit.Size = new System.Drawing.Size(224, 62);
+            this.btn_exit.Size = new System.Drawing.Size(79, 62);
             this.btn_exit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btn_exit.TabIndex = 7;
             this.btn_exit.TabStop = false;

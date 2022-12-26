@@ -25,5 +25,10 @@ namespace AplicacionGym
         {
             Application.Exit();
         }
+
+        private void btn_InicioSesion_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

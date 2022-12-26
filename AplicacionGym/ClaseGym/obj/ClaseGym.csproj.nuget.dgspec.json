@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodri\\source\\repos\\AplicacionGym\\ClaseGym\\ClaseGym.csproj": {}
+    "C:\\Users\\Rodri\\Desktop\\aplicacion gym git\\Aplicacion_Gym\\AplicacionGym\\ClaseGym\\ClaseGym.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodri\\source\\repos\\AplicacionGym\\ClaseGym\\ClaseGym.csproj": {
+    "C:\\Users\\Rodri\\Desktop\\aplicacion gym git\\Aplicacion_Gym\\AplicacionGym\\ClaseGym\\ClaseGym.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodri\\source\\repos\\AplicacionGym\\ClaseGym\\ClaseGym.csproj",
+        "projectUniqueName": "C:\\Users\\Rodri\\Desktop\\aplicacion gym git\\Aplicacion_Gym\\AplicacionGym\\ClaseGym\\ClaseGym.csproj",
         "projectName": "ClaseGym",
-        "projectPath": "C:\\Users\\Rodri\\source\\repos\\AplicacionGym\\ClaseGym\\ClaseGym.csproj",
+        "projectPath": "C:\\Users\\Rodri\\Desktop\\aplicacion gym git\\Aplicacion_Gym\\AplicacionGym\\ClaseGym\\ClaseGym.csproj",
         "packagesPath": "C:\\Users\\Rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodri\\source\\repos\\AplicacionGym\\ClaseGym\\obj\\",
+        "outputPath": "C:\\Users\\Rodri\\Desktop\\aplicacion gym git\\Aplicacion_Gym\\AplicacionGym\\ClaseGym\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
